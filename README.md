@@ -1,4 +1,5 @@
-#### 基于Logger封装的日志LogUtil
+### LogUtil
+基于Logger封装的日志LogUtil
 
 ####提供功能：
 
@@ -65,8 +66,10 @@ LogUtil.xml("tag", "<root><name>hacket</name><pass>123456</pass></root>");
 LogUtil.e(null, "this is a null tag");
 ```
 * 效果
-
-
+[![log效果](https://github.com/hacket/LogUtil/blob/master/img/log.png "log效果")](https://github.com/hacket/LogUtil "log效果")
 
 ###Reference
- 1. [logger](https://github.com/orhanobut/logger "https://github.com/orhanobut/logger")
+ 1. [Logger](https://github.com/orhanobut/logger "https://github.com/orhanobut/logger")
+ 
+ 
+ 
